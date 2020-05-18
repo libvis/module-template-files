@@ -1,5 +1,5 @@
-This is a {{cookiecutter.name}} [webvis](http://webvis.dev) module
+This is a {{cookiecutter.name}} [libvis](http://webvis.dev) module
 
 # Installation
 
-`webvis_mods install {{cookiecutter.name}} {{cookiecutter.name}}-back.py {{cookiecutter.name}}-front.coffee`
+`libvis_mods install {{cookiecutter.name}} {{cookiecutter.name}}-back.py {{cookiecutter.name}}-front.coffee`
